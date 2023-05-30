@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Welcom  To  My Blog.
+title: Welcome  To  My Blog.
 ---
 
-This is visible body content, which may use Markdown, HTML, and Liquid templating.
+
+<h1>This is my  first github pages blog  </h1>
